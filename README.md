@@ -13,7 +13,7 @@ I'm a **Chemical Engineering graduate** from **Sant Longowal Institute of Engine
 - 🔬 Final-year project on **Al-Air Batteries** — designed, fabricated, and tested a low-cost prototype
 - 🏭 Industrial training at **ONGC Mehsana Asset** — exposure to real-scale crude oil processing (2,400 m³/day)
 - 💡 Interested in **Process Engineering, Energy Systems, and Computational Modeling**
-- 📫 Reach me at: **sashikr.31@gmail.com** | 📞 +91 9470188475
+- 📫 Reach me at: **sashikr.31@gmail.com** 
 
 ---
 
@@ -91,7 +91,7 @@ I'm a **Chemical Engineering graduate** from **Sant Longowal Institute of Engine
 
 [![Email](https://img.shields.io/badge/Email-sashikr.31%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sashikr.31@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krshashi000/)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209470188475-green?style=for-the-badge)](tel:+919470188475)
+
 
 ---
 
