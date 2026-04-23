@@ -1,0 +1,10 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+title: SHASHI KUMAR
+description:[Motivated and detail-oriented Chemical Engineering graduate (B.E., CGPA 7.52) from Sant Longowal Institute of Engineering
+and Technology with hands-on experience in electrochemical systems, industrial process operations, and computational
+modeling. Skilled in designing and analysing engineering prototypes, with a final-year project on Al-Air batteries achieving
+measurable performance outcomes. Proficient in MATLAB, DWSIM, AutoCAD, and C++. Strong foundation in
+thermodynamics, fluid mechanics, heat transfer, and process dynamics. Eager to contribute to innovative, process-driven
+engineering environments]
