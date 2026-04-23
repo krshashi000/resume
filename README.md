@@ -90,7 +90,7 @@ I'm a **Chemical Engineering graduate** from **Sant Longowal Institute of Engine
 ## 📬 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-sashikr.31%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:sashikr.31@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/krshashi000/)
 [![Phone](https://img.shields.io/badge/Phone-%2B91%209470188475-green?style=for-the-badge)](tel:+919470188475)
 
 ---
