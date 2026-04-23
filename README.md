@@ -83,7 +83,7 @@ I'm a **Chemical Engineering graduate** from **Sant Longowal Institute of Engine
 ## 🤝 Extracurricular
 
 - 🧑‍🔬 **IIChE SLIET Chapter** — Member | Technical quizzes, expert lectures, workshops
-- 🎨 **SLIET Art and Design Society** — Member | Designed posters for Madhuram Cultural Fest 2023
+- 🎨 **SLIET Art and Design Society** — Member | Designed posters for Madhuram Cultural Fest 2023,collaborated on creative team projects
 
 ---
 
